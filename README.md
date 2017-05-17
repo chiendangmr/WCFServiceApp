@@ -1,2 +1,2 @@
-# WCFServiceApp
-First WCF Service App
+# WCFService
+First WCF Service
